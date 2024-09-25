@@ -1,0 +1,12 @@
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/bin/Debug/net8.0/AspireApp1.ServiceDefaults.deps.json
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/bin/Debug/net8.0/AspireApp1.ServiceDefaults.dll
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/bin/Debug/net8.0/AspireApp1.ServiceDefaults.pdb
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/obj/Debug/net8.0/AspireApp1.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/obj/Debug/net8.0/AspireApp1.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/obj/Debug/net8.0/AspireApp1.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/obj/Debug/net8.0/AspireApp1.ServiceDefaults.AssemblyInfo.cs
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/obj/Debug/net8.0/AspireApp1.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/obj/Debug/net8.0/AspireApp1.ServiceDefaults.dll
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/obj/Debug/net8.0/refint/AspireApp1.ServiceDefaults.dll
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/obj/Debug/net8.0/AspireApp1.ServiceDefaults.pdb
+/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.ServiceDefaults/obj/Debug/net8.0/ref/AspireApp1.ServiceDefaults.dll

@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "1atteviOwb7ZTQ5TRDLifHtd8XREwJ1Th7UIb/q/h8k=",
+  "Source": "AspireApp1.Web",
+  "BasePath": "_content/AspireApp1.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspireApp1.Web/wwwroot",
+      "Source": "AspireApp1.Web",
+      "ContentRoot": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/",
+      "BasePath": "_content/AspireApp1.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/bundle/AspireApp1.Web.styles.css",
+      "SourceId": "AspireApp1.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/AspireApp1.Web",
+      "RelativePath": "AspireApp1.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "gjou0ak5qu",
+      "Integrity": "vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/bundle/AspireApp1.Web.styles.css"
+    },
+    {
+      "Identity": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/projectbundle/AspireApp1.Web.bundle.scp.css",
+      "SourceId": "AspireApp1.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/AspireApp1.Web",
+      "RelativePath": "AspireApp1.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "gjou0ak5qu",
+      "Integrity": "vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/projectbundle/AspireApp1.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/app.css",
+      "SourceId": "AspireApp1.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/",
+      "BasePath": "_content/AspireApp1.Web",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lsmoadmmt2",
+      "Integrity": "ZQfmdywSdwsIzDC1Y8pvXVI7WdvAnh1vM967p9eyoAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.css"
+    },
+    {
+      "Identity": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/bootstrap/bootstrap.min.css",
+      "SourceId": "AspireApp1.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/",
+      "BasePath": "_content/AspireApp1.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/bootstrap/bootstrap.min.css.map",
+      "SourceId": "AspireApp1.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/",
+      "BasePath": "_content/AspireApp1.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/favicon.png",
+      "SourceId": "AspireApp1.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/",
+      "BasePath": "_content/AspireApp1.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZQfmdywSdwsIzDC1Y8pvXVI7WdvAnh1vM967p9eyoAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 09:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZQfmdywSdwsIzDC1Y8pvXVI7WdvAnh1vM967p9eyoAE="
+        }
+      ]
+    },
+    {
+      "Route": "app.lsmoadmmt2.css",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZQfmdywSdwsIzDC1Y8pvXVI7WdvAnh1vM967p9eyoAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 09:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsmoadmmt2"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZQfmdywSdwsIzDC1Y8pvXVI7WdvAnh1vM967p9eyoAE="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp1.Web.bundle.scp.css",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/projectbundle/AspireApp1.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 11:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp1.Web.gjou0ak5qu.bundle.scp.css",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/projectbundle/AspireApp1.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 11:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjou0ak5qu"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp1.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp1.Web.gjou0ak5qu.styles.css",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/bundle/AspireApp1.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 11:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjou0ak5qu"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp1.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp1.Web.styles.css",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/obj/Debug/net8.0/scopedcss/bundle/AspireApp1.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 11:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vL9mfu5R5wYUygpN+f5T0cnWtEjI1bawUOrO44on9fU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/bootstrap/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 09:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/bootstrap/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 09:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 09:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 09:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 09:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "/Users/maddymontaquila/source/PolyglotAspire/AspireApp1.Web/wwwroot/favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Aug 2024 09:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}
